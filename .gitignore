@@ -1,0 +1,13 @@
+__pycache__/
+*.pyc
+*.pth
+*.pth.tar
+.vscode/
+results/
+results_test/
+data/
+Data/
+*.log
+*.txt.bak
+wget-log*
+CLIP/ckpt/

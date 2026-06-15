@@ -63,7 +63,9 @@ Loss weights: lambda1=0.5, lambda2=0.25, lambda3=0.1, routing temperature tau=0.
 ## Installation
 
 ```bash
-git clone https://github.com/aqeelamirza/AVA-DINO.git
+conda create -n ava-dino python=3.10 -y
+conda activate ava-dino
+git clone https://github.com/aqeeelmirza/AVA-DINO.git
 cd AVA-DINO
 pip install -r requirements.txt
 ```
